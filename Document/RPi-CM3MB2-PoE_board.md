@@ -88,7 +88,8 @@ USB2.0ホストコネクタ(1ポート)。
 
 Raspberry Pi Compute Module 3/ 3 Lite 装着用ソケット。<br>
 ※RPi-CM3MB2-PoEにはCM3Liteが付属していません。<br>
-※RPi-CM3MB2L-PoEにはCM3Liteが付属しています。(未装着)
+※RPi-CM3MB2L-PoEにはCM3Liteが付属しています。<br> 
+  【※2024 年2 月以降出荷品はeMMC32GB 搭載品をバンドル】(未装着)
 
 ### 1-12. 40PIN ピンヘッダー GPIOコネクタ
 ![12](/Image/Board_pic/12.jpg)
